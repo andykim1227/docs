@@ -28,11 +28,11 @@
   "tabs": [
     {
       "name": "필리핀 FDA 인증",
-      "url": "cert"
+      "url": "/cert"
     },
     {
       "name": "필리핀 IOR",
-      "url": "ior"
+      "url": "/ior"
     }
   ],
   "anchors": [
