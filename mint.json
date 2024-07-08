@@ -27,6 +27,10 @@
   },
   "tabs": [
     {
+      "name": "HOME",
+      "url": "cert/introduction"
+    },
+    {
       "name": "필리핀 FDA 인증",
       "url": "cert/introduction"
     },
