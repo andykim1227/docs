@@ -8,8 +8,8 @@
   "favicon": "/favicon.png",
   "colors": {
     "primary": "#084438",
-    "light": "#084438",
-    "dark": "#158d81",
+    "light": "#158d81",
+    "dark": "#084438",
     "anchors": {
       "from": "#0D9373",
       "to": "#158d81"
@@ -28,11 +28,11 @@
   "tabs": [
     {
       "name": "필리핀 FDA 인증",
-      "url": "api-reference"
+      "url": "cert"
     },
     {
       "name": "필리핀 IOR",
-      "url": "api-reference"
+      "url": "ior"
     }
   ],
   "anchors": [
@@ -51,7 +51,9 @@
     {
       "group": "HOME",
       "pages": [
-        "introduction"
+        "/introduction"
+        "/quickstart"
+        "/development"
       ]
     },
     {
@@ -68,7 +70,13 @@
     {
       "group": "필리핀 FDA 인증",
       "pages": [
-        "api-reference/introduction"
+        "cert/introduction"
+      ]
+    },
+    {
+      "group": "필리핀 IOR",
+      "pages": [
+        "ior/introduction"
       ]
     },
     {
