@@ -53,7 +53,7 @@
   ],
   "navigation": [
     {
-      "group": "HOME",
+      "group": "HOME1",
       "pages": [
         "cert/introduction"
         "ior/introduction"
