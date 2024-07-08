@@ -1,64 +1,61 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "유저 가이드",
+  "name": "User Guide",
   "logo": {
     "dark": "/logo/vavlon_light.png",
     "light": "/logo/vavlon_light.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#084438",
+    "light": "#084438",
+    "dark": "#158d81",
     "anchors": {
       "from": "#0D9373",
-      "to": "#07C983"
+      "to": "#158d81"
     }
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "서비스 문의",
+      "url": "mailto:help@vavlon.io"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "VAVLON 홈페이지",
+    "url": "https://vavlon.io"
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "필리핀 FDA 인증",
+      "url": "api-reference"
+    },
+    {
+      "name": "필리핀 IOR",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "유저 가이드",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://vavlon.mintlify.app/"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
+      "name": "VAVLON 블로그",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://blog.naver.com/vavlon"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "HOME",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "VAVLON 가이드"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "VAVLON 시작하기",
       "pages": [
         "essentials/markdown",
         "essentials/code",
@@ -69,7 +66,7 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "필리핀 FDA 인증",
       "pages": [
         "api-reference/introduction"
       ]
