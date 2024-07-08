@@ -28,15 +28,15 @@
   "tabs": [
     {
       "name": "HOME",
-      "url": "/cert/introduction"
+      "url": "quickstart"
     },
     {
       "name": "필리핀 FDA 인증",
-      "url": "/cert/introduction"
+      "url": "cert/introduction"
     },
     {
       "name": "필리핀 IOR",
-      "url": "/ior/introduction"
+      "url": "ior/introduction"
     }
   ],
   "anchors": [
@@ -55,20 +55,20 @@
     {
       "group": "HOME",
       "pages": [
-        "/cert/introduction"
-        "/ior/introduction"
+        "cert/introduction"
+        "ior/introduction"
       ]
     },
     {
       "group": "필리핀 FDA 인증",
       "pages": [
-        "/cert/introduction"
+        "cert/introduction"
       ]
     },
     {
       "group": "필리핀 IOR",
       "pages": [
-        "/ior/introduction"
+        "ior/introduction"
       ]
     }
   ]
