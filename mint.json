@@ -43,7 +43,7 @@
     },
     {
       "name": "VAVLON 블로그",
-      "icon": "newspaper",
+      "icon": "blog",
       "url": "https://blog.naver.com/vavlon"
     }
   ],
@@ -51,7 +51,7 @@
     {
       "group": "HOME",
       "pages": [
-        "VAVLON 가이드"
+        "introduction"
       ]
     },
     {
