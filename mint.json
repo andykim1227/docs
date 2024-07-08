@@ -28,15 +28,15 @@
   "tabs": [
     {
       "name": "HOME",
-      "url": "docs/introduction"
+      "url": "/quickstart"
     },
     {
       "name": "필리핀 FDA 인증",
-      "url": "docs/cert/introduction"
+      "url": "/cert/introduction"
     },
     {
       "name": "필리핀 IOR",
-      "url": "docs/ior/introduction"
+      "url": "/ior/introduction"
     }
   ],
   "anchors": [
@@ -47,7 +47,7 @@
     },
     {
       "name": "VAVLON 블로그",
-      "icon": "blog",
+      "icon": "book-open-cover",
       "url": "https://blog.naver.com/vavlon"
     }
   ],
@@ -55,21 +55,20 @@
     {
       "group": "HOME",
       "pages": [
-        "docs/introduction"
-        "docs/quickstart"
-        "docs/development"
+        "/quickstart"
+        "/development"
       ]
     },
     {
       "group": "필리핀 FDA 인증",
       "pages": [
-        "docs/cert/introduction"
+        "/cert/introduction"
       ]
     },
     {
       "group": "필리핀 IOR",
       "pages": [
-        "docs/ior/introduction"
+        "/ior/introduction"
       ]
     }
   ]
