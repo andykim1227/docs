@@ -28,7 +28,7 @@
   "tabs": [
     {
       "name": "HOME",
-      "url": "/quickstart"
+      "url": "/cert/introduction"
     },
     {
       "name": "필리핀 FDA 인증",
@@ -55,8 +55,8 @@
     {
       "group": "HOME",
       "pages": [
-        "/quickstart"
-        "/development"
+        "/cert/introduction"
+        "/ior/introduction"
       ]
     },
     {
